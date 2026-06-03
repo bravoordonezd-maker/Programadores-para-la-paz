@@ -1,0 +1,14 @@
+pregunta 7:
+
+respuesta:
+Repositorio:es como una carpeta donde se guarda todo el historial completo,
+de los archivos o de las modificaciones permitiendo acceder a cualquier version anterior.
+
+commit:es la accion de guardar definitivamente un conjunto de cambios,
+creando un nuevo punto en el proyecto.
+cada commit incluye un mensaje que describe que se modifico, quen lo realizo y cuando se realizo.
+es como la forma de registrar avances y man tener un seguimiento calo del trabajo.
+
+push:es el comando que envia todos los commits guardados en el repositorio local hacia el repositorio remoto.
+tambien se reflejan los cambios que ya fueron confirmados con commit,
+y permite que todo el equipo acceda a la vercion mas reciente.
