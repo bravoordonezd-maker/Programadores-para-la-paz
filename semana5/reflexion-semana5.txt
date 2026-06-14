@@ -1,0 +1,11 @@
+pregunta 9
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, reportes o alertas de manera organizada?
+
+Las APIs permiten que distintas herramientas y sistemas se conecten entre sí, facilitando el intercambio de datos de forma ordenada.
+Gracias a ellas, la información, reportes o alertas se comparten con un formato uniforme, evitando confusiones.
+Se puede automatizar el envío de actualizaciones en tiempo real, lo que es muy útil para avisos de emergencia o seguimiento de proyectos.
+No hace falta reescribir la información manualmente, lo que reduce errores y ahorra tiempo.
+También permite que cualquier miembro de la comunidad acceda a los datos desde diferentes dispositivos o aplicaciones.
+Se establecen reglas claras para consultar o enviar información, manteniendo el orden y la organización.
+Además, al ser soluciones escalables, se adaptan a medida que crece la cantidad de datos o usuarios.
+En resumen, las APIs transforman el intercambio de información en un proceso eficiente, seguro y accesible para toda la comunidad.
